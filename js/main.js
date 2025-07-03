@@ -1,0 +1,1 @@
+document.getElementById("server-status").innerText = "✅ Server Online | 52 Players Online";
